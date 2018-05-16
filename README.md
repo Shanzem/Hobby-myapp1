@@ -1,4 +1,4 @@
-# Hooby-myapp1
+# Hobby-myapp1
 Backup and learning
 
 TOY PROGRAM
