@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lukes appy</string>
+    <string name="edit_message">Enter a name</string>
+    <string name="button_send">OK</string>
+    <string name="button_Click">Click</string>
+    <string name="Welcome">Welcome to Seek n    Destroy</string>
+    <string name="button_buy">Buy</string>
+    <string name="button_roll">Roll a move</string>
+    <string name="money">Dollars:</string>
+    <string name="fort">Fort Health:</string>
+    <string name="troops">Troops:</string>
+    <string name="alienmothership">Mother-ship Health:</string>
+    <string name="level">Level:</string>
+    <string name="exit">Save n Exit</string>
+    <string name="commander">Commander: </string>
+    <string name="Welcome_intro">Please enter a name to start the game.</string>
+</resources>

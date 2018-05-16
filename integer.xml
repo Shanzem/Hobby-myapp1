@@ -1,0 +1,14 @@
+<resources>
+    <integer name="money">1000</integer>
+    <integer name="troop">100</integer>
+    <integer name="fort">100</integer>
+    <integer name="Alienmothership">100</integer>
+    <integer name="level">0</integer>
+    <integer name="aliensattack">0</integer>
+    <integer name="alienloses">0</integer>
+    <integer name="troopslost">0</integer>
+    <integer name="forthealthlost">0</integer>
+    <integer name="alienmothershiphealthlost">0</integer>
+    <integer name="moneygained">0</integer>
+    <integer name="moneyspent">0</integer>
+</resources>
